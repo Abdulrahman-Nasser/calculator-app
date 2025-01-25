@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Web\\Dotnet Core\\C# Course\\Simple projects\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6208EB44-DD3C-4519-83B8-90ED0A1A8A10}|Calculator-app\\Calculator-app.csproj|g:\\web\\dotnet core\\c# course\\simple projects\\calculator\\calculator-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6208EB44-DD3C-4519-83B8-90ED0A1A8A10}|Calculator-app\\Calculator-app.csproj|solutionrelative:calculator-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Web\\Dotnet Core\\C# Course\\Simple projects\\Calculator\\Calculator-app\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator-app\\Program.cs",
+              "ToolTip": "G:\\Web\\Dotnet Core\\C# Course\\Simple projects\\Calculator\\Calculator-app\\Program.cs",
+              "RelativeToolTip": "Calculator-app\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T22:06:47.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
